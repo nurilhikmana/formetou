@@ -232,7 +232,7 @@ const playlists = {
   night: [
     {
       title: "Lover, You Should’ve Come Over",
-      src: "song  .mp3",
+      src: "song.mp3",
       type: "player",
       img: "jeffbuckley.jpg", // New Album Art Path
     },
@@ -833,3 +833,4 @@ renderGallery();
 
 // Tambahkan Achievement Baru ke daftar 'possible' di fungsi renderAchievements()
 // Cari baris yang ada 'possible' dan tambahkan "Admired her art"
+
